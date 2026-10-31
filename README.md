@@ -49,6 +49,10 @@ The dashboard also includes interactive filters for:
 - Payment Mode
 - Occupation
 - Rating
+  
+<img width="1067" height="667" alt="Screenshot 2026-10-31 101531" src="https://github.com/user-attachments/assets/4492d181-a17f-4b54-9356-19719cfb61cc" />
+<img width="1067" height="667" alt="Screenshot 2026-10-31 101531" src="https://github.com/user-attachments/assets/d0ce69af-8b8b-442d-8137-d23a5b9f305a" />
+
 
 ## 🎯 Key Objective
 
