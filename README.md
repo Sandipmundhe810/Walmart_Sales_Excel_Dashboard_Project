@@ -52,6 +52,15 @@ The dashboard also includes interactive filters for:
   
 <img width="1067" height="667" alt="Screenshot 2026-10-31 101531" src="https://github.com/user-attachments/assets/4492d181-a17f-4b54-9356-19719cfb61cc" />
 
+Business Insights:
+1)Vitenam Contributing Highest Revenue, Followed by China and India
+2)Cotton Sub-category contributing highest Revenue 4.7M Comparatively to all other sub-category 
+3)Revenue Trend Analysis Shows Side Trend in Revenue, Which could be a Negative point or idel condition of the current market situation.
+4)maharashtra and Rajsthan  have highest Revenue 
+5)Karnataka has lowest Revenue
+6)Electronics and Fashion Contributes almost 50% of Total Revenue
+
+
 ## 🎯 Key Objective
 
 To transform raw sales data from multiple sources into a clean, analyzed, and interactive Excel dashboard that provides useful business insights.
